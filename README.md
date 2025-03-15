@@ -10,4 +10,3 @@ I'm a passionate developer with a love for cycling.
 ## Connect with Me
 
 - **Strava**: Follow my activities on [Strava](https://www.strava.com/athletes/41050335).
-- **GitHub**: Feel free to explore my projects here.
